@@ -8,10 +8,10 @@
 <ul>
   <li> 🖥 Software engineer for  devices and UI/UX designer
   <li> 👔 Founding member of <a href="http://healthcarecentral.co">HealthCare central co.</a>
-  <li> ⛹️‍♂️ iOS Team lead, delivery manager, project manager, and QA for <a href="http://healthlyapp.com">HealthLy app</a>
+  <li> ⛹️‍♂️ iOS Engineer and Designer of <a href="http://healthlyapp.com">HealthLy app</a>
   <li> 👨‍💻 Mobile developer at <a href="http://levi9.com">Levi9</a>
 </ul>
 <h2>Libraries I would like to share</h2>
 <ul>
-  <li>🔎 <a href="">TTS - Typo-Tolerant Search</a> 🔍
+  <li>🔎 <a href="https://github.com/nikola-markovic/TyToSearch">TTS - Typo-Tolerant Search</a> 🔍
 </ul>
