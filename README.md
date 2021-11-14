@@ -1,8 +1,7 @@
 <h1>Nikola Marković</h1>
 <table>
   <tr> 
-    <td><a href="https://www.icloud.com/iclouddrive/0UARpJscw6LXh_pvXwsrg8zHw#Nikola_Markovic_-_Resume">Resume.pdf</a></td> 
-    <td><a href="https://www.icloud.com/iclouddrive/0niKUajurIJRKRsEJIcLwcxrw">Brochure.pdf</a></td> 
+    <td><a href="https://www.icloud.com/iclouddrive/0sGC0S8yX3KxN4q2TFuJU1oKw#Nikola_Markovic%CC%81_-_Brochure_and_Resume">Resume.pdf</a></td>
   </tr>
 </table>
 <ul>
