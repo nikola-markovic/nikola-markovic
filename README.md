@@ -12,5 +12,5 @@
 </ul>
 <h2>Libraries I would like to share</h2>
 <ul>
-  <li>🔎 <a href="https://github.com/nikola-markovic/TyToSearch">TTS - Typo-Tolerant Search</a> 🔍
+  <li>🔎 <a href="https://github.com/nikola-markovic/TyToSearch">TyToSearch - Typo-Tolerant Search</a> 🔍
 </ul>
